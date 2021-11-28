@@ -35,7 +35,7 @@
         "symfony/form": "^5.3",
         "symfony/framework-bundle": "^5.3",
         "symfony/http-foundation": "^4.4 || ^5.3",
-        "symfony/http-kernel": "^4.4",
+        "symfony/http-kernel": "^5.3",
         "symfony/mailer": "^4.4 || ^5.3",
         "symfony/mime": "^4.4.10 || ^5.3",
         "symfony/options-resolver": "^4.4 || ^5.3",
