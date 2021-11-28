@@ -1,5 +1,5 @@
 {
-    "name": "sonata-project/user-bundle",
+    "name": "daniel-mannheimer/user-bundle",
     "type": "symfony-bundle",
     "description": "Symfony SonataUserBundle",
     "keywords": [
